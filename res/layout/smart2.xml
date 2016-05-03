@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFF"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <com.example.specialeffectsandroid.canvasclock.HandClockView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            clockImageSrc="@drawable/clock2"
+            handCenterHeightScale="0.5"
+            handCenterWidthScale="0.5"
+            hourHandSize="100"
+            minuteHandSize="154"
+            scale="0.3" />
+
+        <!-- 这里有一个包名，刚的学朋友可能会不知道这些干嘛，这里是指向一个类，我的工程里面不是有我一个包吗，对吧。 -->
+
+        <com.example.specialeffectsandroid.canvasclock.HandClockView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            clockImageSrc="@drawable/clock3"
+            android:layout_marginLeft="10dp"
+            handCenterHeightScale="0.5"
+            handCenterWidthScale="0.5"
+            hourHandSize="100"
+            minuteHandSize="154"
+            scale="0.3" />
+    </LinearLayout>
+
+    <com.example.specialeffectsandroid.canvasclock.HandClockView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        clockImageSrc="@drawable/clock1"
+        handCenterHeightScale="0.512"
+        handCenterWidthScale="0.477"
+        hourHandSize="40"
+        minuteHandSize="54"
+        scale="0.75" />
+
+</LinearLayout>

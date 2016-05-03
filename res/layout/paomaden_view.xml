@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!-- 新品推荐 -->
+
+    <TextView
+        android:id="@+id/new_recommend_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="3dp"
+        android:text="新品推荐"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <!-- 促销栏 -->
+
+    <FrameLayout
+        android:id="@+id/new_recommend"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/new_recommend_text" >
+
+        <ImageSwitcher
+            android:id="@+id/imageSwitcher"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/linearlayout_actives"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp" />
+    </FrameLayout>
+
+    <!-- 促销栏 -->
+
+    <FrameLayout
+        android:id="@+id/new_recommend2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/new_recommend"
+        android:paddingTop="30dp" >
+
+        <ImageSwitcher
+            android:id="@+id/imageSwitcher2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/linearlayout_actives2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp" />
+    </FrameLayout>
+
+</RelativeLayout>

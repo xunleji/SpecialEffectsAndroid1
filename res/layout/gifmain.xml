@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:gif="http://schemas.android.com/apk/res/com.example.specialeffectsandroid"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开始" >
+    </Button>
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="停止" >
+    </Button>
+
+    <com.example.specialeffectsandroid.playgif.TypegifView
+        android:id="@+id/gifView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        gif:delay="1"
+        gif:src="@raw/test6"
+        gif:stop="true" >
+    </com.example.specialeffectsandroid.playgif.TypegifView>
+
+</LinearLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android特效1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh…</string>
+    <string name="loading">加载中...</string>
+    <string name="no_data">暂无数据</string>
+
+    <array name="title_array">
+        <item>    一、题目1</item>
+        <item>    二、题目2</item>
+        <item>    三、题目3</item>
+        <item>    四、题目4</item>
+        <item>    五、题目5</item>
+        <item>    六、题目6</item>
+    </array>
+    <array name="description_array">
+        <item>	一、在完成某项工作时，你认为领导要求的方式不是最好的，自己还有更好的方法，你应该怎么做？
+	1.原则上我会尊重和服从领导的工作安排；同时私底下找机会以请教的口吻，婉转地表达自己的想法，看看领导是否能改变想法；国家公务员考试
+	2.如果领导没有采纳我的建议，我也同样会按领导的要求认真地去完成这项工作；国家公务员考试
+	3.还有一种情况，假如领导要求的方式违背原则，我会坚决提出反对意见；如领导仍固执己见，我会毫不犹豫地再向上级领导反映。
+	4.需要超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本超长文本</item>
+        <item>	二、如果通过这次面试我们单位录用了你，但工作一段时间却发现你根本不适合这个职位，你怎么办？
+	一段时间发现工作不适合我，有两种情况：1.如果你确实热爱这个职业，那你就要不断学习，虚心向领导和同事学习业务知识和处事经验，了解这个职业的精神内涵和职业要求，力争减少差距；2.你觉得这个职业可有可无，那还是趁早换个职业，去发现适合你的，你热爱的职业，那样你的发展前途也会大点，对单位和个人都有好处。</item>
+        <item>	三、你正在主持一个会议，意见对立的双方由争辨发展到恶语想向，你怎么办？
+	作为会议的主持人，我会把双方争论的据点、争论的问题记录下来，然后先建议大家安静，或干脆休会半小时，等大家能平心静气坐下来后，我会再次阐述本次会议的目的，就是要大家心平气和地商量某一问题，提出解决办法，而不是争论。等局面被我控制后，我再要求双方各派一名代表将自己方的意见、观点、计划总结出来，通过阐述自己的理由，大家举手表决，少数人服从多数人的意见，我同样会把最后的结果写进会议记录中备查。</item>
+        <item>	四、齐白石说“学我者生，似我者死”，什么意思，你对这句话的看法
+	1、“学我者生，似我者死”的意思是学齐画的神韵，并不是学画的临摹，做到神似形不似。这句话其实是白石老人的切身体会，他学画晚而且只是个爱好，他去北京寻求的是其他方面的发展，桥的是他身无分文只好在街头卖画糊口，更巧的是好像是北大的一位美术大家路过，觉得他的画的确有真品的韵，告诉他类似这句“学我者生，似我者死”话。这也是从那以后白石才专著于画道的。国家公务员考试
+	2、对于好的东西，我们不光要学习，而且要把它变成自己的东西。我们要学习别人的先进经验，办事方法，但在运用中要实事求是，具体问题具体分析。国家公务员考试
+	3、我国正在轰轰烈烈的进行现代化建设，这是一个前无古人后无来者的尝试，对国外的先进经验，我们要有“拿来主义”的精神。但要取其精华去其糟粕，否则就变成资本主义了。邓小平理论关于社会主义市场经济的论断就与这八个字精神吻合。</item>
+        <item>	五、如果你的工作出现失误，给本公司造成经济损失，你认为该怎么办？
+	1、我本意是为公司努力工作，如果造成经济损失，我认为首要的问题是想方设法去弥补或挽回经济损失。如果我无能力负责，希望单位帮助解决；
+	2、是责任问题。分清责任，各负其责，如果是我的责任，我甘愿受罚；如果是一个我负责的团队中别人的失误，也不能幸灾乐祸，作为一个团队，需要互相提携共同完成工作，安慰同事并且帮助同事查找原因总结经验。
+	3、总结经验教训，一个人的一生不可能不犯错误，重要的是能从自己的或者是别人的错误中吸取经验教训，并在今后的工作中避免发生同类的错误。检讨自己的工作方法、分析问题的深度和力度是否不够，以致出现了本可以避免的错误。	</item>
+        <item>	六、内容少的时候不影响效果
+	看看是不是呀啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</item>
+    </array>
+
+    <string name="info">Demo By:Hamvorinf\nhttp://liaoxiaoqi.com or http://hamvorinf.cn\n欢迎大家共同学习进步！</string>
+    <string name="no_wifi_hint">无WiFi网络,点击以查看WiFi设置</string>
+    <string name="instruction_pre">启动后可以从电脑端远程管理手机文件</string>
+    <string name="instruction">请在“我的电脑”地址栏中输入：</string>
+    <string name="notif_server_starting">远程管理服务已启动</string>
+    <string name="notif_title">远程管理服务正在运行</string>
+    <string name="start_server">启动服务</string>
+    <string name="stop_server">停止服务</string>
+    
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string name="action_contact">Contact</string>
+    
+    <string-array name="action_list">
+        <item>Bitmap</item>
+        <item>Ovals</item>
+        <item>Picasso</item>
+        <item>Color</item>
+        <item>circle</item>
+    </string-array>
+    
+</resources>

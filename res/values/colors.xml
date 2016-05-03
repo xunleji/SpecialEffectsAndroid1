@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="lv1">#00000000</color>
+    <color name="gray">#808080</color>
+    <color name="pushlist">#FF9da0a4</color>
+    <color name="color1">#330000</color>
+    <color name="color2">#550000</color>
+    <color name="color3">#770000</color>
+    <color name="color4">#990000</color>
+    <color name="color5">#bb0000</color>
+    <color name="color6">#dd0000</color>
+    <color name="color7">#ff0000</color>
+    <color name="bgColor">#000000</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_window">#FFE5E5E5</color>
+
+</resources>

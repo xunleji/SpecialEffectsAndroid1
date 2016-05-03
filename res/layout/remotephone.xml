@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:text="WIFI状态"
+        android:textColor="#000000"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/statuss"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="WIFI状态"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:id="@+id/wifi_state_image"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/wifi_state4" />
+
+    <TextView
+        android:id="@+id/statustv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:text="启动后可以从电脑端远程管理手机文件"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    <TextView
+        android:id="@+id/statusip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="启动后可以从电脑端远程管理手机文件"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    <Button
+        android:id="@+id/statubtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="启动服务"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+
+</LinearLayout>

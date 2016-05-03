@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:rangeseekbar="http://schemas.android.com/apk/res/com.example.specialeffectsandroid"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.example.specialeffectsandroid.doubleseekbar.RangeSeekBar
+        android:id="@+id/betweens"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        rangeseekbar:max="100.0"
+        rangeseekbar:min="0.0"
+        rangeseekbar:startingMax="30"
+        rangeseekbar:startingMin="10.0" />
+
+</LinearLayout>
